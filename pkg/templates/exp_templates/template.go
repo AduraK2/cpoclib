@@ -1,8 +1,8 @@
 package exp_templates
 
 import (
-	"cpoclib/pkg/templates/exp_model"
-	"cpoclib/pkg/utils/ch1nnet/ch1nhttp"
+	"github.com/AduraK2/cpoclib/pkg/templates/exp_model"
+	"github.com/AduraK2/cpoclib/pkg/utils/ch1nnet/ch1nhttp"
 )
 
 type ExpTemplate struct {

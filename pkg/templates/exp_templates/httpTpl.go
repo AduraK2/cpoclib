@@ -1,7 +1,7 @@
 package exp_templates
 
 import (
-	"cpoclib/pkg/utils/ch1nnet/ch1nhttp"
+	"github.com/AduraK2/cpoclib/pkg/utils/ch1nnet/ch1nhttp"
 )
 
 // -----------------------HTTP请求----------------------------------
