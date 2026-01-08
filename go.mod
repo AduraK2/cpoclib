@@ -1,4 +1,4 @@
-module cpoclib
+module github.com/AduraK2/cpoclib
 
 go 1.24.11
 
