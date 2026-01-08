@@ -1,13 +1,14 @@
 package ch1nhttp
 
 import (
-	"cpoclib/pkg/utils/ch1nnet/ch1ntextproto"
 	"io"
 	"net/http/httptrace"
 	"sort"
 	"strings"
 	"sync"
 	"time"
+
+	"github.com/AduraK2/cpoclib/pkg/utils/ch1nnet/ch1ntextproto"
 )
 
 const TimeFormat = "Mon, 08 Jan 2026 12:34:56 GMT"
